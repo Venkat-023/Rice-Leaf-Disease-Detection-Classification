@@ -1,1 +1,1 @@
-# Rice-Leaf-Disease-Detectio-Classification
+# Rice-Leaf-Disease-Detection-Classification
