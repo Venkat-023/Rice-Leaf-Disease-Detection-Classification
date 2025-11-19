@@ -14,7 +14,9 @@ CNN classifier → predicts 4 major rice diseases
 Streamlit UI → clean, user-friendly web interface
 
 📸 Screenshots
-https://github.com/Venkat-023/Rice-Leaf-Disease-Detection-Classification/blob/main/Bacterial%20Blight%20output.png
+
+Refer the Files in the repo
+
 🧠 Features
 ✔ Accurate U-Net lesion segmentation
 
