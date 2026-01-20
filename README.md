@@ -1,5 +1,5 @@
 # Rice-Leaf-Disease-Detection-Classification
-🌾 Rice Leaf Disease Detection System
+ Rice Leaf Disease Detection System
 U-Net Segmentation + CNN Classification + Streamlit Web App
 
 A complete deep-learning powered system for automatic detection, segmentation, and classification of rice leaf diseases.
